@@ -1,2 +1,2 @@
 # Projeto---Cadastro-automatizado-
-Projeto utilizando Python e algumas bibliotecas, além das linguagens de Fronted
+Projeto desenvolvido utilizando HTML5, CSS3, JavaScript e Python (PyAutoGui) e um documento CSV, como uma tabela para ser seguida.
